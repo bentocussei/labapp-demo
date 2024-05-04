@@ -82,7 +82,7 @@ Caso necessário pode baixar a imagem da API - https://hub.docker.com/repository
 API aberta
 
 ## DEMO
-- [Demo da API](https://labapp-demo.onrender.com/swagger/)
+- [Demo da API - Clica aqui para abrir e testar a API](https://labapp-demo.onrender.com/swagger/)
 
 ## Testes
 

@@ -12,7 +12,7 @@ schema_view = get_schema_view(
    openapi.Info(
       title="LABAPP",
       default_version='v1',
-      description="LABAPP é uma API aberta desenvolvida em Django que gerencia informações sobre escolas, permitindo a criação, atualização, exclusão e importação de dados a partir de um arquivo Excel.",
+      description="LABAPP é uma API aberta desenvolvida em Django que gerencia informações sobre escolas, permitindo a criação, atualização, exclusão e importação de dados a partir de um arquivo Excel. LABAPP também permite filtrar as escolas com base nas províncias fornecidas no JSON no corpo da requisição.",
       terms_of_service="https://www.linkedin.com/in/bentocussei/",
       contact=openapi.Contact(email="contact@snippets.local"),
       license=openapi.License(name="BSD License"),
